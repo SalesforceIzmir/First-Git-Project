@@ -1,3 +1,4 @@
 hello git,again!
 save it!
 changes.
+change via cmd.
